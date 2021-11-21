@@ -1,0 +1,12 @@
+D:\PROJECTS\Task-Login>
+
+
+1.npm init
+2.npm install express body-parser mongoose nodemon
+3.node app.js
+4.mongod
+5.mongo
+6.Run Server
+7.show dbs
+8.use mydb
+9.db.users.find().pretty()
